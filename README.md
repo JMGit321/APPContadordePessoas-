@@ -1,5 +1,5 @@
 # contagente
-
+  app de contagem de pessoas, feito somente para o estudo do framework flutter em conjunto da linguagem dart
 A new Flutter application.
 
 ## Getting Started
